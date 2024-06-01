@@ -1,0 +1,9 @@
+.sidebar-col {
+  display: none;
+}
+
+@media (min-width: 768px) {
+  .sidebar-col {
+    display: block;
+  }
+}
